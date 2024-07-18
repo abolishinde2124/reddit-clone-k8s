@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: reddit-clone
-        image: Aboli2124/reddit:latest
+        image: abolishinde21/reddit:latest
         ports:
         - containerPort: 3000
